@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeSelector">
+        <attr format="integer" name="likesCounter" />
+    </declare-styleable>
+
+
+    <declare-styleable name="RiskPointsView">
+        <attr format="integer" name="pointsCount" />
+        <attr format="color" name="pointsColor" />
+        <attr format="color" name="emptyPointsColor" />
+        <attr format="dimension" name="pointRadius" />
+        <attr format="dimension" name="pointsDistance" />
+    </declare-styleable>
+</resources>
